@@ -1,15 +1,32 @@
 # Jose Mendez - LinkedIn Profile Improvement
 
-Resources and action plan for improving my LinkedIn presence as a beginner marketer pursuing the Google Data Analytics Professional Certificate.
+**LinkedIn:** linkedin.com/in/josemendezp
+**Role:** Marketing Strategist | Profit Pillars Marketing
 
-## Contents
+## Goal
 
-- **[linkedin-profile-improvements.md](linkedin-profile-improvements.md)** -- Complete profile optimization guide (headline, about section, skills, keywords, and more)
-- **[event-networking-prep.md](event-networking-prep.md)** -- Networking prep for the Digital Marketers NYC Meetup (intro, questions to ask, follow-up strategy)
-- **[linkedin-post-templates.md](linkedin-post-templates.md)** -- Ready-to-use post templates for sharing your journey, event recaps, and engagement
+Transition from technician to **Marketing Manager** by building a results-driven portfolio and mastering data analytics, performance marketing, and strategic leadership.
 
-## Quick Start
+## Current Status
 
-1. Update your LinkedIn profile using the recommendations in `linkedin-profile-improvements.md`
-2. Prepare for the Digital Marketers NYC Meetup using `event-networking-prep.md`
-3. Start posting consistently using the templates in `linkedin-post-templates.md`
+- Google Data Analytics Professional Certificate -- In Progress (Target: July 2026)
+- No active clients (intentional) -- focused full-time on skill development
+- Running free campaigns for friends as real-world test projects
+
+## 6-Month Roadmap
+
+| Phase | Timeline | Focus |
+|-------|----------|-------|
+| Phase 1 | Months 1-3 | Google Data Analytics cert, SQL, data storytelling, CPA/ROI analysis |
+| Phase 2 | Months 4-5 | Google Ads Search cert, Meta Blueprint cert, copywriting (AIDA/PAS), CAPI tracking |
+| Phase 3 | Month 6 | Case study portfolio, lead nurturing systems, strategic leadership |
+
+## Certification Path
+
+1. **Google Data Analytics** -- Data cleaning, SQL, R, visualization (July 2026)
+2. **Google Ads Search** -- Keyword strategy, bidding, SEM (August 2026)
+3. **Meta Blueprint** -- Media buying, Advantage+, CAPI server tracking (September 2026)
+
+## Upcoming Events
+
+- **Digital Marketers NYC Meetup** -- [Eventbrite](https://www.eventbrite.com/e/digital-marketers-nyc-meetup-tickets-1984896696451)
